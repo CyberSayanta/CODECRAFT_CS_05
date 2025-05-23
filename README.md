@@ -36,7 +36,7 @@ socket for basic networking operations
 
 ⚙️ Installation & Usage
 1. Clone the Repository
-   git clone https://github.com/your-username/network-packet-analyzer.gitcd network-packet-analyzer
+   https://github.com/CyberSayanta/CODECRAFT_CS_05.git
 2. Install Dependencies
    pip install scapy
 3. Run the Sniffer
